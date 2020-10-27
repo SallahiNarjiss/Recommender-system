@@ -1,2 +1,2 @@
 # Recommender-system
-Movies Recommender System suing Stacked AutoEncoders based on 100k ratings dataset
+Movies Recommender System using Stacked AutoEncoders based on 100k ratings dataset
